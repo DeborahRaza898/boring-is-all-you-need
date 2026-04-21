@@ -9,3 +9,4 @@ Boring Is All You Need: a Codex Desktop workflow replacement with transactional
 # clarify the control flow
 # clarify the control flow
 # handle the edge case from the last release
+# guard against empty input
